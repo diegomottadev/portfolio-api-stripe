@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_description_skill_items",
+  "info": {
+    "name": "stack_item",
+    "icon": "angle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "skill": {
+      "type": "string",
+      "private": false,
+      "required": true
+    }
+  }
+}
