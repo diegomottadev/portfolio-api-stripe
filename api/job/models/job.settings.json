@@ -28,6 +28,14 @@
       "repeatable": true,
       "component": "description.job-description",
       "required": true
+    },
+    "place": {
+      "type": "string",
+      "required": true
+    },
+    "company_short": {
+      "type": "string",
+      "required": true
     }
   }
 }
