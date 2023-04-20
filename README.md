@@ -1,3 +1,3 @@
-# Strapi application
+# Goal of the project
 
-A quick description of your strapi application
+  This project used the Strapi API to provide data for the Gatsby front-end of a personal portfolio website [https://diegomotta.dev]. Strapi is an open-source headless content management system (CMS) that provides a flexible and customizable framework for building back-end systems for websites and mobile applications. By integrating the Strapi API, we were able to easily manage and retrieve the necessary data, such as project details, blog posts, and other custom content. The project also included user authentication and access control features provided by Strapi. Overall, the Strapi API integration provided a powerful and flexible back-end system for the Gatsby portfolio website, allowing for easy management and display of custom content.
